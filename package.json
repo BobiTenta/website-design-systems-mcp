@@ -1,0 +1,56 @@
+{
+  "name": "website-design-systems-mcp",
+  "version": "1.0.0",
+  "description": "MCP server that extracts complete design systems from any website URL and generates comprehensive AI-readable skill.md files",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "bin": {
+    "website-design-systems-mcp": "dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsx src/index.ts",
+    "start": "node dist/index.js",
+    "lint": "eslint src/",
+    "format": "prettier --write src/",
+    "clean": "rm -rf dist",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "design-system",
+    "css-extractor",
+    "web-scraping",
+    "ai-tools",
+    "claude",
+    "anthropic"
+  ],
+  "author": "Aakash Kargathara",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kargatharaakash/website-design-systems-mcp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Kargatharaakash/website-design-systems-mcp/issues"
+  },
+  "homepage": "https://github.com/Kargatharaakash/website-design-systems-mcp#readme",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.0",
+    "cheerio": "^1.0.0",
+    "css": "^3.0.0",
+    "zod": "^3.24.0"
+  },
+  "devDependencies": {
+    "@types/css": "^0.0.37",
+    "@types/node": "^22.0.0",
+    "prettier": "^3.4.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.7.0"
+  }
+}
