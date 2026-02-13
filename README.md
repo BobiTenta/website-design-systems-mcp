@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![npm version](https://img.shields.io/npm/v/stitch-mcp.svg)](https://www.npmjs.com/package/stitch-mcp)
+[![npm version](https://img.shields.io/npm/v/website-design-systems-mcp.svg)](https://www.npmjs.com/package/website-design-systems-mcp)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![MCP](https://img.shields.io/badge/MCP-Compatible-green.svg)](https://modelcontextprotocol.io)
 
